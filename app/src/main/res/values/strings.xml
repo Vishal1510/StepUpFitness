@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Step Up Fitness</string>
+    <string name="action_settings">Settings</string>
+    <string name="Information">Information</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="uninstall">Uninstall</string>
+    <string name="callus">Call us at</string>
+    <string name="number">888-8888</string>
+    <string name="title_activity_on_click">OnClick</string>
+
+</resources>
+
